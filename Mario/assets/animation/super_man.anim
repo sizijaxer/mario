@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "super_man",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d374dd6a-1d70-4efd-b44b-2601a11b5439"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "7f5c8072-f156-4001-a748-c9349ca14b06"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "78564a0e-dee0-4289-94e3-43743b0473f9"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1d33676f-5a58-45fd-b788-b9391e62a065"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "big_mario_win",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0774df74-91f4-4278-8236-c65f8dfcdaca"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "99ea4d05-a128-4e0f-bed3-d346c5e7dad2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "99ea4d05-a128-4e0f-bed3-d346c5e7dad2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

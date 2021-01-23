@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "coin_rotate",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6f5ae8ec-571b-496b-9f66-2e344911e9b6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "236af83c-500b-4339-aa81-1569858f2290"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0146644e-d0a3-48d0-9c5f-bd8f7c268202"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d777978b-388b-4702-9a96-8e92b41832c4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

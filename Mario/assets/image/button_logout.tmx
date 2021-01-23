@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.4" orientation="orthogonal" renderorder="right-down" width="36" height="5" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16" tilecount="1204" columns="43">
+  <image source="../AS2_source/effects_UI_tiles/tileset.png" trans="ff00ff" width="688" height="450"/>
+ </tileset>
+ <tileset firstgid="1205" name="tiles" tilewidth="16" tileheight="16" tilecount="1455" columns="97">
+  <image source="../AS2_source/effects_UI_tiles/tiles.png" trans="ff00ff" width="1564" height="251"/>
+ </tileset>
+ <tileset firstgid="2660" name="items" tilewidth="16" tileheight="16" tilecount="104" columns="4">
+  <image source="../AS2_source/effects_UI_tiles/items.png" trans="ff00ff" width="64" height="418"/>
+ </tileset>
+ <layer id="1" name="圖塊層 1" width="36" height="5">
+  <data encoding="csv">
+17,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,19,
+60,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,62,
+60,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,62,
+60,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,1054,62,
+103,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,104,105
+</data>
+ </layer>
+</map>

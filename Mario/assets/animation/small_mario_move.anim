@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "small_mario_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d8a71c44-0dfb-4f7a-8056-ae2967777763"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "ecf631dc-0c03-40df-bccf-3ae953fc4f7b"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "384acc46-f33b-4292-9966-8c344ca38d0e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "81d94b1c-6907-43f0-a0ce-1dcad9ba7635"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "81d94b1c-6907-43f0-a0ce-1dcad9ba7635"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

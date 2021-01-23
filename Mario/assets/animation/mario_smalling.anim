@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_smalling",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 36,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "62138fce-19cb-43ac-9df5-f894bbafb895"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "175267ec-f663-4030-8030-72cf44718fa1"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "2eaa305c-6a50-48fa-b7ba-1ee8e8e97088"
+            }
+          },
+          {
+            "frame": 0.8166666666666667,
+            "value": {
+              "__uuid__": "2eaa305c-6a50-48fa-b7ba-1ee8e8e97088"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "question_block",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "344784f3-e763-40bf-af17-480ae150275a"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4547e5f2-4c42-4a7e-b95e-618cbb2cbbae"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0c8d3a0b-cd39-4b87-8c09-2c3a6d189b54"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "96ca750d-cb42-4118-8417-5f51a2bfb333"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
